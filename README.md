@@ -1,2 +1,29 @@
-# Student-management-System
-A simple Python command-line Student Management System using CSV file handling. This project allows users to add and view student records such as name, age, and grade. It demonstrates file handling concepts in Python using a menu-driven interface.
+#  Student Management System (CSV + Python CLI)
+
+A simple command-line based Student Management System built using **Python** and **CSV file handling**.  
+This project demonstrates basic file operations for storing and retrieving student data.
+
+---
+
+##  Features
+
+- Add new student records
+- View all student records
+- Stores data in a CSV file
+- Simple menu-driven CLI interface
+- Lightweight alternative to databases
+
+---
+
+## Technologies Used
+
+- Python 
+- CSV Module 
+- File Handling
+
+---
+
+##  Project Structure
+├── student.py 
+├── students.csv 
+└── README.md
